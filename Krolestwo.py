@@ -1,5 +1,3 @@
-from Wezel import Wezel
-
 class Krolestwo:
     """Class Krolestwo
     """

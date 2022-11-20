@@ -1,12 +1,12 @@
 from Zdarzenie import Zdarzenie
-
+from Wezel import Wezel
 class Interface:
     """Class Interface
     """
     # Attributes:
-    listaWezlow = None  # (list) 
-    dzienikZdarzen = None  # (lista) 
-    zaplanowaneZdarzenia = None  # (lista) 
+    listaWezlow = []  # (list) 
+    dzienikZdarzen = []  # (lista) 
+    zaplanowaneZdarzenia = []  # (lista) 
     
     # Operations
     def dodajWezel(self):
