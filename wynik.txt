@@ -1,0 +1,132 @@
+[2022-12-01 14:38:51.169468] - Wezel: 1 rozpoczal swoje dzialanie 
+
+[2022-12-01 14:38:51.169563] - Wezel: 1 rozpoczyna proces Elekcji
+
+[2022-12-01 14:38:55.181480] - Wezel: 2 rozpoczal swoje dzialanie 
+
+[2022-12-01 14:38:55.182036] - Wezel: 3 rozpoczal swoje dzialanie 
+
+[2022-12-01 14:38:55.182255] - Wezel: 2 rozpoczyna proces Elekcji
+
+[2022-12-01 14:38:55.182442] - Wezel: 3 rozpoczyna proces Elekcji
+
+[2022-12-01 14:38:55.182950] - Wezel: 2 ma nowego lidera : 1
+
+[2022-12-01 14:38:55.183317] - Wezel: 3 ma nowego lidera : 1
+
+[2022-12-01 14:38:55.183814] - Wezel: 2 ma nowego lidera : 1
+
+[2022-12-01 14:39:21.246617] - Wezel 2 otrzymal wiadomosc od 1 Wiadomosc testowa numer 1
+
+[2022-12-01 14:39:26.258632] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:39:27.259493] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:39:27.259698] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:39:51.315707] - Wezel 3 otrzymal wiadomosc od 1 Wiadomosc testowa numer 2
+
+[2022-12-01 14:39:56.329722] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:39:57.331932] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:39:57.332173] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:40:11.317324] - Wezel: 1 - : Zdarzenie -  Zatrzymanie
+
+[2022-12-01 14:40:57.435032] - Wezel: 3 rozpoczyna proces Elekcji
+
+[2022-12-01 14:40:57.442480] - Wezel: 2 rozpoczyna proces Elekcji
+
+[2022-12-01 14:40:57.442648] - Wezel: 2 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:40:57.442788] - Wezel: 2 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:40:58.436861] - Wezel: 3 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:40:58.437018] - Wezel: 3 ma nowego lidera : 2
+
+[2022-12-01 14:41:27.489962] - Wezel: 2 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:41:27.490149] - Wezel: 2 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:41:27.490388] - Wezel: 3 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:41:28.493153] - Wezel: 2 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:41:57.635317] - Wezel: 2 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:41:57.635842] - Wezel: 2 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:41:58.636883] - Wezel: 3 Okreslil stan wezla 1 jako: Zatrzymanie
+
+[2022-12-01 14:41:58.638574] - Wezel: 2 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:42:11.464299] - Wezel: 1 rozpoczal swoje dzialanie 
+
+[2022-12-01 14:42:11.464764] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:42:11.654291] - Wezel: 3 ma nowego lidera : 1
+
+[2022-12-01 14:42:11.659190] - Wezel: 2 ma nowego lidera : 1
+
+[2022-12-01 14:42:41.523746] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:42:42.524666] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:42:42.524968] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:43:11.573451] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:43:12.575425] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:43:12.575917] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:43:41.697178] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:43:42.701084] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:43:42.701406] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:44:11.752167] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:44:12.753233] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:44:12.753725] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:44:41.811518] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:44:42.813368] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:44:42.813685] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:45:11.858719] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:45:12.861020] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:45:12.861400] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:45:41.932079] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:45:42.933793] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:45:42.934378] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:46:11.978782] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:46:12.980365] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:46:12.981118] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:46:42.043302] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:46:43.045037] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:46:43.045463] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
+[2022-12-01 14:47:12.107067] - Wezel: 1 rozpoczyna procedure diagnozy, wezel okreslil swoj stan jako Brak awari
+
+[2022-12-01 14:47:13.107970] - Wezel: 1 okreslil stan wezla: 3 jako Brak awari
+
+[2022-12-01 14:47:13.108288] - Wezel: 1 okreslil stan wezla: 2 jako Brak awari
+
